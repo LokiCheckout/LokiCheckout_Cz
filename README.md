@@ -1,6 +1,6 @@
 # LokiCheckout_Cz
 
-**This Magento 2 module is an add-on package for the country `Cz`.
+**This Magento 2 module is an add-on package for Czech Republic.**
 
 ## Installation
 Install this package via composer:
